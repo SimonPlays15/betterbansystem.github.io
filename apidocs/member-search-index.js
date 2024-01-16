@@ -1,0 +1,2494 @@
+memberSearchIndex = [{
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "SpigotCommandSender",
+    "l": "addAttachment(Plugin)",
+    "u": "addAttachment(org.bukkit.plugin.Plugin)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "SpigotCommandSender",
+    "l": "addAttachment(Plugin, int)",
+    "u": "addAttachment(org.bukkit.plugin.Plugin,int)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "SpigotCommandSender",
+    "l": "addAttachment(Plugin, String, boolean)",
+    "u": "addAttachment(org.bukkit.plugin.Plugin,java.lang.String,boolean)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "SpigotCommandSender",
+    "l": "addAttachment(Plugin, String, boolean, int)",
+    "u": "addAttachment(org.bukkit.plugin.Plugin,java.lang.String,boolean,int)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "BanHandler",
+    "l": "addBan(BaseCommandSender, String, String, Date)",
+    "u": "addBan(me.github.simonplays15.betterbansystem.core.player.BaseCommandSender,java.lang.String,java.lang.String,java.util.Date)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "BungeeCordCommandSender",
+    "l": "addGroups(String...)",
+    "u": "addGroups(java.lang.String...)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "BanHandler",
+    "l": "addIpBan(BaseCommandSender, String, String, Date)",
+    "u": "addIpBan(me.github.simonplays15.betterbansystem.core.player.BaseCommandSender,java.lang.String,java.lang.String,java.util.Date)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "c": "MuteHandler",
+    "l": "addMute(BaseCommandSender, String, String, Date)",
+    "u": "addMute(me.github.simonplays15.betterbansystem.core.player.BaseCommandSender,java.lang.String,java.lang.String,java.util.Date)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "WarnHandler",
+    "l": "addWarn(BaseCommandSender, String, String)",
+    "u": "addWarn(me.github.simonplays15.betterbansystem.core.player.BaseCommandSender,java.lang.String,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "IWarnEntry",
+    "l": "addWarn(Warn)",
+    "u": "addWarn(me.github.simonplays15.betterbansystem.core.warn.Warn)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "WarnEntry",
+    "l": "addWarn(Warn)",
+    "u": "addWarn(me.github.simonplays15.betterbansystem.core.warn.Warn)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.automod",
+    "c": "AutoModAction",
+    "l": "AutoModAction(String)",
+    "u": "%3Cinit%3E(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BaseConfig",
+    "l": "b()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "c": "BanCommand",
+    "l": "BanCommand()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "BanEntry",
+    "l": "BanEntry(UUID, String, String, Date, Object, String)",
+    "u": "%3Cinit%3E(java.util.UUID,java.lang.String,java.lang.String,java.util.Date,java.lang.Object,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "BanHandler",
+    "l": "BanHandler()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "c": "BanListCommand",
+    "l": "BanListCommand()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "BanManager",
+    "l": "BanManager()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command",
+    "c": "BaseCommand",
+    "l": "BaseCommand(String)",
+    "u": "%3Cinit%3E(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command",
+    "c": "BaseCommandHandler",
+    "l": "BaseCommandHandler()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "BaseCommandSender",
+    "l": "BaseCommandSender()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BaseConfig",
+    "l": "BaseConfig()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BasePluginDescription",
+    "l": "BasePluginDescription(InputStream)",
+    "u": "%3Cinit%3E(java.io.InputStream)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BasePluginDescription",
+    "l": "BasePluginDescription(Reader)",
+    "u": "%3Cinit%3E(java.io.Reader)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "c": "BetterBanSystem",
+    "l": "BetterBanSystem(File)",
+    "u": "%3Cinit%3E(java.io.File)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command",
+    "c": "CommandSenderType",
+    "l": "BLOCK"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.chat",
+    "c": "HoverMessageUtil",
+    "l": "buildHoverableMessage(String, String)",
+    "u": "buildHoverableMessage(java.lang.String,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "c": "PermissionsHandlerType",
+    "l": "BUNGEECORD"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "BungeeCordCommandSender",
+    "l": "BungeeCordCommandSender(CommandSender)",
+    "u": "%3Cinit%3E(net.md_5.bungee.api.CommandSender)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "BungeeCordCommandSender",
+    "l": "BungeeCordCommandSender(Object)",
+    "u": "%3Cinit%3E(java.lang.Object)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "c": "BungeeCordDefaultHandler",
+    "l": "BungeeCordDefaultHandler()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.bungeecord",
+    "c": "BungeeCore",
+    "l": "BungeeCore()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mongodb",
+    "c": "CachedMongoDBDatabase",
+    "l": "CachedMongoDBDatabase()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mysql",
+    "c": "CachedMySQLDatabase",
+    "l": "CachedMySQLDatabase()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.sqlite",
+    "c": "CachedSQLiteDatabase",
+    "l": "CachedSQLiteDatabase()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.chat",
+    "c": "ChatColor",
+    "l": "ChatColor()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.bungeecord.event.events",
+    "c": "ChatEvents",
+    "l": "ChatEvents()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "c": "PermissionsHandlerType",
+    "l": "CLOUDNET"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "c": "CloudNetPermissionsHandler",
+    "l": "CloudNetPermissionsHandler()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.exceptions",
+    "c": "CommandException",
+    "l": "CommandException()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.exceptions",
+    "c": "CommandException",
+    "l": "CommandException(String)",
+    "u": "%3Cinit%3E(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.exceptions",
+    "c": "CommandException",
+    "l": "CommandException(String, Throwable)",
+    "u": "%3Cinit%3E(java.lang.String,java.lang.Throwable)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.spigot",
+    "c": "CommandHandler",
+    "l": "CommandHandler()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.bungeecord",
+    "c": "CommandHandler",
+    "l": "CommandHandler(Plugin)",
+    "u": "%3Cinit%3E(net.md_5.bungee.api.plugin.Plugin)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.exceptions",
+    "c": "CommandRegisterException",
+    "l": "CommandRegisterException()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.exceptions",
+    "c": "CommandRegisterException",
+    "l": "CommandRegisterException(BaseCommand)",
+    "u": "%3Cinit%3E(me.github.simonplays15.betterbansystem.core.command.BaseCommand)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.exceptions",
+    "c": "CommandRegisterException",
+    "l": "CommandRegisterException(String)",
+    "u": "%3Cinit%3E(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.exceptions",
+    "c": "CommandRegisterException",
+    "l": "CommandRegisterException(String, Throwable)",
+    "u": "%3Cinit%3E(java.lang.String,java.lang.Throwable)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database",
+    "c": "IDatabase",
+    "l": "commitTransaction()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mongodb",
+    "c": "MongoDBDatabase",
+    "l": "commitTransaction()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mysql",
+    "c": "MySQLDatabase",
+    "l": "commitTransaction()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.sqlite",
+    "c": "SQLiteDatabase",
+    "l": "commitTransaction()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "c": "BetterBanSystem",
+    "l": "config"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mongodb",
+    "c": "MongoDBDatabase",
+    "l": "connect(String, String, String)",
+    "u": "connect(java.lang.String,java.lang.String,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database",
+    "c": "IDatabase",
+    "l": "connect(String, String, String)",
+    "u": "connect(java.lang.String,java.lang.String,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mysql",
+    "c": "MySQLDatabase",
+    "l": "connect(String, String, String)",
+    "u": "connect(java.lang.String,java.lang.String,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.sqlite",
+    "c": "SQLiteDatabase",
+    "l": "connect(String, String, String)",
+    "u": "connect(java.lang.String,java.lang.String,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command",
+    "c": "CommandSenderType",
+    "l": "CONSOLE"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BaseConfig",
+    "l": "contains(String)",
+    "u": "contains(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "BanEntry",
+    "l": "created()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "IBanEntry",
+    "l": "created()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "IIPBanEntry",
+    "l": "created()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "IPBanEntry",
+    "l": "created()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "c": "IMuteEntry",
+    "l": "created()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "c": "MuteEntry",
+    "l": "created()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "Warn",
+    "l": "created()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database",
+    "c": "IDatabase",
+    "l": "createDatabaseAndTables()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mongodb",
+    "c": "MongoDBDatabase",
+    "l": "createDatabaseAndTables()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mysql",
+    "c": "MySQLDatabase",
+    "l": "createDatabaseAndTables()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.sqlite",
+    "c": "SQLiteDatabase",
+    "l": "createDatabaseAndTables()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database",
+    "c": "IDatabase",
+    "l": "createIndex(String, String, boolean)",
+    "u": "createIndex(java.lang.String,java.lang.String,boolean)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mongodb",
+    "c": "CachedMongoDBDatabase",
+    "l": "createIndex(String, String, boolean)",
+    "u": "createIndex(java.lang.String,java.lang.String,boolean)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mongodb",
+    "c": "MongoDBDatabase",
+    "l": "createIndex(String, String, boolean)",
+    "u": "createIndex(java.lang.String,java.lang.String,boolean)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mysql",
+    "c": "CachedMySQLDatabase",
+    "l": "createIndex(String, String, boolean)",
+    "u": "createIndex(java.lang.String,java.lang.String,boolean)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mysql",
+    "c": "MySQLDatabase",
+    "l": "createIndex(String, String, boolean)",
+    "u": "createIndex(java.lang.String,java.lang.String,boolean)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.sqlite",
+    "c": "CachedSQLiteDatabase",
+    "l": "createIndex(String, String, boolean)",
+    "u": "createIndex(java.lang.String,java.lang.String,boolean)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.sqlite",
+    "c": "SQLiteDatabase",
+    "l": "createIndex(String, String, boolean)",
+    "u": "createIndex(java.lang.String,java.lang.String,boolean)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.logging",
+    "c": "GlobalLogger",
+    "l": "createNamedLogger(String)",
+    "u": "createNamedLogger(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.logging",
+    "c": "GlobalLogger",
+    "l": "createNamedLogger(String, boolean, boolean)",
+    "u": "createNamedLogger(java.lang.String,boolean,boolean)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database",
+    "c": "Database",
+    "l": "Database()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.logging",
+    "c": "LogLevel",
+    "l": "DEBUG"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.logging",
+    "c": "GlobalLogger",
+    "l": "debug(Object...)",
+    "u": "debug(java.lang.Object...)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "c": "PermissionsHandlerType",
+    "l": "DEFAULT_PERMISSION_HANDLING"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.automod",
+    "c": "AutoModActionType",
+    "l": "DELETE"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database",
+    "c": "IDatabase",
+    "l": "delete(String, String, Object)",
+    "u": "delete(java.lang.String,java.lang.String,java.lang.Object)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mongodb",
+    "c": "CachedMongoDBDatabase",
+    "l": "delete(String, String, Object)",
+    "u": "delete(java.lang.String,java.lang.String,java.lang.Object)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mongodb",
+    "c": "MongoDBDatabase",
+    "l": "delete(String, String, Object)",
+    "u": "delete(java.lang.String,java.lang.String,java.lang.Object)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mysql",
+    "c": "CachedMySQLDatabase",
+    "l": "delete(String, String, Object)",
+    "u": "delete(java.lang.String,java.lang.String,java.lang.Object)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mysql",
+    "c": "MySQLDatabase",
+    "l": "delete(String, String, Object)",
+    "u": "delete(java.lang.String,java.lang.String,java.lang.Object)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.sqlite",
+    "c": "CachedSQLiteDatabase",
+    "l": "delete(String, String, Object)",
+    "u": "delete(java.lang.String,java.lang.String,java.lang.Object)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.sqlite",
+    "c": "SQLiteDatabase",
+    "l": "delete(String, String, Object)",
+    "u": "delete(java.lang.String,java.lang.String,java.lang.Object)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "c": "DelWarnCommand",
+    "l": "DelWarnCommand()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.logging",
+    "c": "GlobalLogger",
+    "l": "destroyLogger()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database",
+    "c": "IDatabase",
+    "l": "disconnect()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mongodb",
+    "c": "MongoDBDatabase",
+    "l": "disconnect()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mysql",
+    "c": "MySQLDatabase",
+    "l": "disconnect()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.sqlite",
+    "c": "SQLiteDatabase",
+    "l": "disconnect()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "c": "BetterBanSystem",
+    "l": "dispatchCommand(String)",
+    "u": "dispatchCommand(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.automod",
+    "c": "AutoModActionParameters",
+    "l": "DURATION"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.automod",
+    "c": "AutoModAction",
+    "l": "equals(Object)",
+    "u": "equals(java.lang.Object)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "BanEntry",
+    "l": "equals(Object)",
+    "u": "equals(java.lang.Object)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "IPBanEntry",
+    "l": "equals(Object)",
+    "u": "equals(java.lang.Object)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command",
+    "c": "BaseCommand",
+    "l": "equals(Object)",
+    "u": "equals(java.lang.Object)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "c": "MuteEntry",
+    "l": "equals(Object)",
+    "u": "equals(java.lang.Object)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "Warn",
+    "l": "equals(Object)",
+    "u": "equals(java.lang.Object)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "WarnEntry",
+    "l": "equals(Object)",
+    "u": "equals(java.lang.Object)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.logging",
+    "c": "LogLevel",
+    "l": "ERROR"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.logging",
+    "c": "GlobalLogger",
+    "l": "error(Object...)",
+    "u": "error(java.lang.Object...)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.bungeecord.event",
+    "c": "EventManager",
+    "l": "EventManager(Plugin)",
+    "u": "%3Cinit%3E(net.md_5.bungee.api.plugin.Plugin)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.spigot.event",
+    "c": "EventManager",
+    "l": "EventManager(Plugin)",
+    "u": "%3Cinit%3E(org.bukkit.plugin.Plugin)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database",
+    "c": "IDatabase",
+    "l": "executeQuery(String)",
+    "u": "executeQuery(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mongodb",
+    "c": "MongoDBDatabase",
+    "l": "executeQuery(String)",
+    "u": "executeQuery(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mysql",
+    "c": "MySQLDatabase",
+    "l": "executeQuery(String)",
+    "u": "executeQuery(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.sqlite",
+    "c": "SQLiteDatabase",
+    "l": "executeQuery(String)",
+    "u": "executeQuery(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "BanEntry",
+    "l": "expires()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "IBanEntry",
+    "l": "expires()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "IIPBanEntry",
+    "l": "expires()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "IPBanEntry",
+    "l": "expires()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "c": "IMuteEntry",
+    "l": "expires()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "c": "MuteEntry",
+    "l": "expires()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.logging",
+    "c": "LogLevel",
+    "l": "FATAL"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.logging",
+    "c": "GlobalLogger",
+    "l": "fatal(Object...)",
+    "u": "fatal(java.lang.Object...)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "BanHandler",
+    "l": "findBanEntry(String)",
+    "u": "findBanEntry(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "BanHandler",
+    "l": "findBanEntry(UUID)",
+    "u": "findBanEntry(java.util.UUID)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "IPBanEntry",
+    "l": "findEntry(String)",
+    "u": "findEntry(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "BanEntry",
+    "l": "findEntry(UUID)",
+    "u": "findEntry(java.util.UUID)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "c": "MuteEntry",
+    "l": "findEntry(UUID)",
+    "u": "findEntry(java.util.UUID)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "WarnEntry",
+    "l": "findEntry(UUID)",
+    "u": "findEntry(java.util.UUID)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "BanHandler",
+    "l": "findIPBanEntry(String)",
+    "u": "findIPBanEntry(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "c": "MuteHandler",
+    "l": "findMuteEntry(String)",
+    "u": "findMuteEntry(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "c": "MuteHandler",
+    "l": "findMuteEntry(UUID)",
+    "u": "findMuteEntry(java.util.UUID)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.chat",
+    "c": "StringFormatter",
+    "l": "formatBanMessage(IBanEntry)",
+    "u": "formatBanMessage(me.github.simonplays15.betterbansystem.core.ban.IBanEntry)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.chat",
+    "c": "StringFormatter",
+    "l": "formatIpBanMessage(IIPBanEntry)",
+    "u": "formatIpBanMessage(me.github.simonplays15.betterbansystem.core.ban.IIPBanEntry)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.chat",
+    "c": "StringFormatter",
+    "l": "formatKickMessage(String, String)",
+    "u": "formatKickMessage(java.lang.String,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BaseConfig",
+    "l": "get(String)",
+    "u": "get(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BaseConfig",
+    "l": "get(String, Object)",
+    "u": "get(java.lang.String,java.lang.Object)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.automod",
+    "c": "AutoModAction",
+    "l": "getActionLimit()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command",
+    "c": "BaseCommand",
+    "l": "getAliases()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "BanEntry",
+    "l": "getAllEntries()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "IPBanEntry",
+    "l": "getAllEntries()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "c": "MuteEntry",
+    "l": "getAllEntries()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "WarnEntry",
+    "l": "getAllEntries()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "c": "PermissionsManager",
+    "l": "getAvailableManager()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "SpigotCommandSender",
+    "l": "getBase()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BaseConfig",
+    "l": "getBoolean(String)",
+    "u": "getBoolean(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BaseConfig",
+    "l": "getBoolean(String, boolean)",
+    "u": "getBoolean(java.lang.String,boolean)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "c": "BetterBanSystem",
+    "l": "getCommandHandler()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command",
+    "c": "BaseCommand",
+    "l": "getCommandName()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BasePluginDescription",
+    "l": "getCommands()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command",
+    "c": "BaseCommandHandler",
+    "l": "getCommands()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "c": "BetterBanSystem",
+    "l": "getConfig()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "c": "BetterBanSystem",
+    "l": "getConsole()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "c": "BetterBanSystem",
+    "l": "getConsoleSender()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "c": "BetterBanSystem",
+    "l": "getDatabase()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "c": "BetterBanSystem",
+    "l": "getDataFolder()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BasePluginDescription",
+    "l": "getDescription()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command",
+    "c": "BaseCommand",
+    "l": "getDescription()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BaseConfig",
+    "l": "getDouble(String)",
+    "u": "getDouble(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BaseConfig",
+    "l": "getDouble(String, double)",
+    "u": "getDouble(java.lang.String,double)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "SpigotCommandSender",
+    "l": "getEffectivePermissions()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "BungeeCordCommandSender",
+    "l": "getGroups()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "c": "PermissionsManager",
+    "l": "getHandler(PermissionsHandlerType)",
+    "u": "getHandler(me.github.simonplays15.betterbansystem.core.permissions.PermissionsHandlerType)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "c": "BetterBanSystem",
+    "l": "getInstance()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BaseConfig",
+    "l": "getInt(String)",
+    "u": "getInt(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BaseConfig",
+    "l": "getInt(String, int)",
+    "u": "getInt(java.lang.String,int)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "c": "BetterBanSystem",
+    "l": "getLanguageFile()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BaseConfig",
+    "l": "getList(String)",
+    "u": "getList(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BaseConfig",
+    "l": "getList(String, List<?>)",
+    "u": "getList(java.lang.String,java.util.List)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.logging",
+    "c": "GlobalLogger",
+    "l": "getLogger()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.logging",
+    "c": "GlobalLogger",
+    "l": "getLogger(String)",
+    "u": "getLogger(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BaseConfig",
+    "l": "getLong(String)",
+    "u": "getLong(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BaseConfig",
+    "l": "getLong(String, long)",
+    "u": "getLong(java.lang.String,long)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BasePluginDescription",
+    "l": "getMain()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "LanguageFile",
+    "l": "getMessage(String)",
+    "u": "getMessage(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "LanguageFile",
+    "l": "getMessage(String, Map<String, String>)",
+    "u": "getMessage(java.lang.String,java.util.Map)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BasePluginDescription",
+    "l": "getName()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "BaseCommandSender",
+    "l": "getName()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "BungeeCordCommandSender",
+    "l": "getName()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "SpigotCommandSender",
+    "l": "getName()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "c": "BetterBanSystem",
+    "l": "getOfflinePlayer(UUID)",
+    "u": "getOfflinePlayer(java.util.UUID)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.automod",
+    "c": "AutoModAction",
+    "l": "getParameter(AutoModActionParameters)",
+    "u": "getParameter(me.github.simonplays15.betterbansystem.core.automod.AutoModActionParameters)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command",
+    "c": "BaseCommand",
+    "l": "getPermission()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "BungeeCordCommandSender",
+    "l": "getPermissions()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "c": "BetterBanSystem",
+    "l": "getPermissionsManager()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command",
+    "c": "BaseCommand",
+    "l": "getPermManager()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "c": "BetterBanSystem",
+    "l": "getPlayer(String)",
+    "u": "getPlayer(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "c": "BetterBanSystem",
+    "l": "getPlayer(UUID)",
+    "u": "getPlayer(java.util.UUID)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "c": "BetterBanSystem",
+    "l": "getPluginDescription()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "c": "BetterBanSystem",
+    "l": "getPrefix()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "ResourceFile",
+    "l": "getResource(String)",
+    "u": "getResource(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "c": "BetterBanSystem",
+    "l": "getRunningPlugin()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "BaseCommandSender",
+    "l": "getSenderType()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "BungeeCordCommandSender",
+    "l": "getSenderType()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "SpigotCommandSender",
+    "l": "getSenderType()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "SpigotCommandSender",
+    "l": "getServer()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BaseConfig",
+    "l": "getString(String)",
+    "u": "getString(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BaseConfig",
+    "l": "getString(String, String)",
+    "u": "getString(java.lang.String,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BaseConfig",
+    "l": "getStringList(String)",
+    "u": "getStringList(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BaseConfig",
+    "l": "getStringList(String, List<String>)",
+    "u": "getStringList(java.lang.String,java.util.List)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.automod",
+    "c": "AutoModAction",
+    "l": "getType()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command",
+    "c": "BaseCommand",
+    "l": "getUsage()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.uuid",
+    "c": "UUIDFetcher",
+    "l": "getUUID(String)",
+    "u": "getUUID(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.uuid",
+    "c": "UUIDFetcher",
+    "l": "getUUIDOrOfflineUUID(String)",
+    "u": "getUUIDOrOfflineUUID(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BasePluginDescription",
+    "l": "getVersion()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "c": "Updater",
+    "l": "getVersion(Consumer<String>)",
+    "u": "getVersion(java.util.function.Consumer)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.logging",
+    "c": "GlobalLogger",
+    "l": "GlobalLogger(String)",
+    "u": "%3Cinit%3E(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.logging",
+    "c": "GlobalLogger",
+    "l": "GlobalLogger(String, boolean, boolean)",
+    "u": "%3Cinit%3E(java.lang.String,boolean,boolean)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "c": "PermissionsManager",
+    "l": "handlerType"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.automod",
+    "c": "AutoModAction",
+    "l": "hashCode()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "BanEntry",
+    "l": "hashCode()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "IPBanEntry",
+    "l": "hashCode()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command",
+    "c": "BaseCommand",
+    "l": "hashCode()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "c": "MuteEntry",
+    "l": "hashCode()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "Warn",
+    "l": "hashCode()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "WarnEntry",
+    "l": "hashCode()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "c": "SpigotPermissionsHandler",
+    "l": "hasPermission(OfflinePlayer)",
+    "u": "hasPermission(org.bukkit.OfflinePlayer)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "c": "VaultPermissionsSystem",
+    "l": "hasPermission(OfflinePlayer)",
+    "u": "hasPermission(org.bukkit.OfflinePlayer)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "c": "LuckPermsManager",
+    "l": "hasPermission(OfflinePlayer, String)",
+    "u": "hasPermission(org.bukkit.OfflinePlayer,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "SpigotCommandSender",
+    "l": "hasPermission(Permission)",
+    "u": "hasPermission(org.bukkit.permissions.Permission)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "c": "LuckPermsManager",
+    "l": "hasPermission(Player, String)",
+    "u": "hasPermission(org.bukkit.entity.Player,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "c": "SpigotPermissionsHandler",
+    "l": "hasPermission(Player, String)",
+    "u": "hasPermission(org.bukkit.entity.Player,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "c": "VaultPermissionsSystem",
+    "l": "hasPermission(Player, String)",
+    "u": "hasPermission(org.bukkit.entity.Player,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "c": "BungeeCordDefaultHandler",
+    "l": "hasPermission(ProxiedPlayer, String)",
+    "u": "hasPermission(net.md_5.bungee.api.connection.ProxiedPlayer,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "SpigotCommandSender",
+    "l": "hasPermission(String)",
+    "u": "hasPermission(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "BaseCommandSender",
+    "l": "hasPermission(String)",
+    "u": "hasPermission(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "BungeeCordCommandSender",
+    "l": "hasPermission(String)",
+    "u": "hasPermission(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "c": "BungeeCordDefaultHandler",
+    "l": "hasPermission(String, String)",
+    "u": "hasPermission(java.lang.String,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "c": "CloudNetPermissionsHandler",
+    "l": "hasPermission(String, String)",
+    "u": "hasPermission(java.lang.String,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "c": "LuckPermsManager",
+    "l": "hasPermission(String, String)",
+    "u": "hasPermission(java.lang.String,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "c": "PermissionsManager",
+    "l": "hasPermission(String, String)",
+    "u": "hasPermission(java.lang.String,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "c": "SpigotPermissionsHandler",
+    "l": "hasPermission(String, String)",
+    "u": "hasPermission(java.lang.String,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "c": "VaultPermissionsSystem",
+    "l": "hasPermission(String, String)",
+    "u": "hasPermission(java.lang.String,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "c": "BetterBanSystem",
+    "l": "hasPlayedBefore(Object)",
+    "u": "hasPlayedBefore(java.lang.Object)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.chat",
+    "c": "HoverMessageUtil",
+    "l": "HoverMessageUtil()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "BanEntry.IBanEntryAdapter",
+    "l": "IBanEntryAdapter()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "Warn",
+    "l": "id()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "WarnEntry",
+    "l": "idGenerator"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "IPBanEntry.IIPBanEntryAdapter",
+    "l": "IIPBanEntryAdapter()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "c": "MuteEntry.IMuteEntryAdapter",
+    "l": "IMuteEntryAdapter()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.logging",
+    "c": "LogLevel",
+    "l": "INFO"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.logging",
+    "c": "GlobalLogger",
+    "l": "info(Object...)",
+    "u": "info(java.lang.Object...)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.logging",
+    "c": "GlobalLogger",
+    "l": "info(String)",
+    "u": "info(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mongodb",
+    "c": "CachedMongoDBDatabase",
+    "l": "insert(String, Map<String, Object>)",
+    "u": "insert(java.lang.String,java.util.Map)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mysql",
+    "c": "CachedMySQLDatabase",
+    "l": "insert(String, Map<String, Object>)",
+    "u": "insert(java.lang.String,java.util.Map)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mysql",
+    "c": "MySQLDatabase",
+    "l": "insert(String, Map<String, Object>)",
+    "u": "insert(java.lang.String,java.util.Map)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.sqlite",
+    "c": "CachedSQLiteDatabase",
+    "l": "insert(String, Map<String, Object>)",
+    "u": "insert(java.lang.String,java.util.Map)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.sqlite",
+    "c": "SQLiteDatabase",
+    "l": "insert(String, Map<String, Object>)",
+    "u": "insert(java.lang.String,java.util.Map)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database",
+    "c": "IDatabase",
+    "l": "insert(String, Map<String, Object>)",
+    "u": "insert(java.lang.String,java.util.Map)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mongodb",
+    "c": "MongoDBDatabase",
+    "l": "insert(String, Map<String, Object>)",
+    "u": "insert(java.lang.String,java.util.Map)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.bungeecord",
+    "c": "BungeeCore",
+    "l": "instance"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.spigot",
+    "c": "SpigotCore",
+    "l": "instance"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.automod",
+    "c": "AutoModActionType",
+    "l": "INSTANTBAN"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.exceptions",
+    "c": "InvalidDescriptionException",
+    "l": "InvalidDescriptionException()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.exceptions",
+    "c": "InvalidDescriptionException",
+    "l": "InvalidDescriptionException(String)",
+    "u": "%3Cinit%3E(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.exceptions",
+    "c": "InvalidDescriptionException",
+    "l": "InvalidDescriptionException(String, Throwable)",
+    "u": "%3Cinit%3E(java.lang.String,java.lang.Throwable)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "IIPBanEntry",
+    "l": "ip()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "IPBanEntry",
+    "l": "ip()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "c": "IpBanCommand",
+    "l": "IpBanCommand()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "IPBanEntry",
+    "l": "IPBanEntry(String, String, Date, Object, String)",
+    "u": "%3Cinit%3E(java.lang.String,java.lang.String,java.util.Date,java.lang.Object,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "BaseCommandSender",
+    "l": "isBlock()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BaseConfig",
+    "l": "isBoolean(String)",
+    "u": "isBoolean(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.runtimeservice",
+    "c": "RuntimeService",
+    "l": "isBungeeCord()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "BaseCommandSender",
+    "l": "isConsole()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.logging",
+    "c": "GlobalLogger",
+    "l": "isDebug()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BaseConfig",
+    "l": "isDouble(String)",
+    "u": "isDouble(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BaseConfig",
+    "l": "isInt(String)",
+    "u": "isInt(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BaseConfig",
+    "l": "isList(String)",
+    "u": "isList(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BaseConfig",
+    "l": "isLong(String)",
+    "u": "isLong(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "SpigotCommandSender",
+    "l": "isOp()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "BaseCommandSender",
+    "l": "isOther()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "SpigotCommandSender",
+    "l": "isPermissionSet(Permission)",
+    "u": "isPermissionSet(org.bukkit.permissions.Permission)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "SpigotCommandSender",
+    "l": "isPermissionSet(String)",
+    "u": "isPermissionSet(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "BaseCommandSender",
+    "l": "isPlayer()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.runtimeservice",
+    "c": "RuntimeService",
+    "l": "isSpigot()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BaseConfig",
+    "l": "isString(String)",
+    "u": "isString(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "WarnEntry.IWarnEntryAdapter",
+    "l": "IWarnEntryAdapter()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "c": "KickCommand",
+    "l": "KickCommand()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "c": "BetterBanSystem",
+    "l": "kickPlayer(Object, String)",
+    "u": "kickPlayer(java.lang.Object,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "LanguageFile",
+    "l": "LanguageFile(String)",
+    "u": "%3Cinit%3E(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BaseConfig",
+    "l": "load(File)",
+    "u": "load(java.io.File)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "c": "BetterBanSystem",
+    "l": "loadLanguage(String)",
+    "u": "loadLanguage(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "c": "BetterBanSystem",
+    "l": "loadPermissionsSystem(PermissionsHandlerType)",
+    "u": "loadPermissionsSystem(me.github.simonplays15.betterbansystem.core.permissions.PermissionsHandlerType)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.uuid",
+    "c": "UUIDFetcher",
+    "l": "loadUsercacheJson()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.logging",
+    "c": "GlobalLogger",
+    "l": "log(LogLevel, Object...)",
+    "u": "log(me.github.simonplays15.betterbansystem.core.logging.LogLevel,java.lang.Object...)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.bungeecord.event.events",
+    "c": "LoginEvents",
+    "l": "loginEvent(LoginEvent)",
+    "u": "loginEvent(net.md_5.bungee.api.event.LoginEvent)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.bungeecord.event.events",
+    "c": "LoginEvents",
+    "l": "LoginEvents()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "c": "LookUpCommand",
+    "l": "LookUpCommand()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "c": "PermissionsHandlerType",
+    "l": "LUCKPERMS"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "c": "LuckPermsManager",
+    "l": "LuckPermsManager()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database",
+    "c": "DriverType",
+    "l": "MONGODB"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mongodb",
+    "c": "MongoDBDatabase",
+    "l": "MongoDBDatabase()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.automod",
+    "c": "AutoModActionType",
+    "l": "MUTE"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "c": "MuteCommand",
+    "l": "MuteCommand()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "c": "MuteEntry",
+    "l": "MuteEntry(UUID, String, String, Date, Object, String)",
+    "u": "%3Cinit%3E(java.util.UUID,java.lang.String,java.lang.String,java.util.Date,java.lang.Object,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "c": "MuteHandler",
+    "l": "MuteHandler()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "c": "MuteManager",
+    "l": "MuteManager()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database",
+    "c": "DriverType",
+    "l": "MYSQL"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mysql",
+    "c": "MySQLDatabase",
+    "l": "MySQLDatabase()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "BanEntry",
+    "l": "name()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "IBanEntry",
+    "l": "name()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "c": "IMuteEntry",
+    "l": "name()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "c": "MuteEntry",
+    "l": "name()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "IWarnEntry",
+    "l": "name()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "WarnEntry",
+    "l": "name()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.exceptions",
+    "c": "NotImplementedException",
+    "l": "NotImplementedException()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.exceptions",
+    "c": "NotImplementedException",
+    "l": "NotImplementedException(String)",
+    "u": "%3Cinit%3E(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "BungeeCordCommandSender",
+    "l": "of(Object)",
+    "u": "of(java.lang.Object)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "SpigotCommandSender",
+    "l": "of(Object)",
+    "u": "of(java.lang.Object)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.spigot.event.events",
+    "c": "PlayerChatEvents",
+    "l": "onChat(AsyncPlayerChatEvent)",
+    "u": "onChat(org.bukkit.event.player.AsyncPlayerChatEvent)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.bungeecord.event.events",
+    "c": "ChatEvents",
+    "l": "onChat(ChatEvent)",
+    "u": "onChat(net.md_5.bungee.api.event.ChatEvent)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.bungeecord",
+    "c": "CommandHandler",
+    "l": "onCommand(CommandSender, Command, String, String[])",
+    "u": "onCommand(net.md_5.bungee.api.CommandSender,net.md_5.bungee.api.plugin.Command,java.lang.String,java.lang.String[])"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.spigot",
+    "c": "CommandHandler",
+    "l": "onCommand(CommandSender, Command, String, String[])",
+    "u": "onCommand(org.bukkit.command.CommandSender,org.bukkit.command.Command,java.lang.String,java.lang.String[])"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.spigot.event.events",
+    "c": "PlayerChatEvents",
+    "l": "onCommandSend(PlayerCommandPreprocessEvent)",
+    "u": "onCommandSend(org.bukkit.event.player.PlayerCommandPreprocessEvent)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.spigot",
+    "c": "SpigotCore",
+    "l": "onDisable()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.bungeecord",
+    "c": "BungeeCore",
+    "l": "onEnable()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.spigot",
+    "c": "SpigotCore",
+    "l": "onEnable()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.spigot",
+    "c": "SpigotCore",
+    "l": "onLoad()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.spigot.event.events",
+    "c": "PlayerLoginEvents",
+    "l": "onLogin(PlayerLoginEvent)",
+    "u": "onLogin(org.bukkit.event.player.PlayerLoginEvent)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command",
+    "c": "BaseCommand",
+    "l": "onTabComplete(BaseCommandSender, String[])",
+    "u": "onTabComplete(me.github.simonplays15.betterbansystem.core.player.BaseCommandSender,java.lang.String[])"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.spigot",
+    "c": "CommandHandler",
+    "l": "onTabComplete(CommandSender, Command, String, String[])",
+    "u": "onTabComplete(org.bukkit.command.CommandSender,org.bukkit.command.Command,java.lang.String,java.lang.String[])"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.bungeecord",
+    "c": "CommandHandler",
+    "l": "onTabComplete(CommandSender, Command, String[])",
+    "u": "onTabComplete(net.md_5.bungee.api.CommandSender,net.md_5.bungee.api.plugin.Command,java.lang.String[])"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command",
+    "c": "CommandSenderType",
+    "l": "OTHER"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.automod",
+    "c": "AutoModAction",
+    "l": "parseActions(String)",
+    "u": "parseActions(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.exceptions",
+    "c": "PermissionManagerLoadException",
+    "l": "PermissionManagerLoadException()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.exceptions",
+    "c": "PermissionManagerLoadException",
+    "l": "PermissionManagerLoadException(String)",
+    "u": "%3Cinit%3E(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.exceptions",
+    "c": "PermissionManagerLoadException",
+    "l": "PermissionManagerLoadException(String, Throwable)",
+    "u": "%3Cinit%3E(java.lang.String,java.lang.Throwable)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "c": "PermissionsManager",
+    "l": "PermissionsManager(PermissionsHandlerType)",
+    "u": "%3Cinit%3E(me.github.simonplays15.betterbansystem.core.permissions.PermissionsHandlerType)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command",
+    "c": "CommandSenderType",
+    "l": "PLAYER"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.spigot.event.events",
+    "c": "PlayerChatEvents",
+    "l": "PlayerChatEvents()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.spigot.event.events",
+    "c": "PlayerLoginEvents",
+    "l": "PlayerLoginEvents()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "c": "BetterBanSystem",
+    "l": "prefix"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database",
+    "c": "IDatabase",
+    "l": "query(String)",
+    "u": "query(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mongodb",
+    "c": "CachedMongoDBDatabase",
+    "l": "query(String)",
+    "u": "query(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mongodb",
+    "c": "MongoDBDatabase",
+    "l": "query(String)",
+    "u": "query(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mysql",
+    "c": "CachedMySQLDatabase",
+    "l": "query(String)",
+    "u": "query(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mysql",
+    "c": "MySQLDatabase",
+    "l": "query(String)",
+    "u": "query(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.sqlite",
+    "c": "CachedSQLiteDatabase",
+    "l": "query(String)",
+    "u": "query(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.sqlite",
+    "c": "SQLiteDatabase",
+    "l": "query(String)",
+    "u": "query(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "BanEntry.IBanEntryAdapter",
+    "l": "read(JsonReader)",
+    "u": "read(com.google.gson.stream.JsonReader)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "IPBanEntry.IIPBanEntryAdapter",
+    "l": "read(JsonReader)",
+    "u": "read(com.google.gson.stream.JsonReader)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "c": "MuteEntry.IMuteEntryAdapter",
+    "l": "read(JsonReader)",
+    "u": "read(com.google.gson.stream.JsonReader)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "WarnEntry.IWarnEntryAdapter",
+    "l": "read(JsonReader)",
+    "u": "read(com.google.gson.stream.JsonReader)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.automod",
+    "c": "AutoModActionParameters",
+    "l": "REASON"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "BanEntry",
+    "l": "reason()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "IBanEntry",
+    "l": "reason()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "IIPBanEntry",
+    "l": "reason()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "IPBanEntry",
+    "l": "reason()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "c": "IMuteEntry",
+    "l": "reason()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "c": "MuteEntry",
+    "l": "reason()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "Warn",
+    "l": "reason()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "SpigotCommandSender",
+    "l": "recalculatePermissions()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.bungeecord.event",
+    "c": "EventManager",
+    "l": "registerEvent(Listener)",
+    "u": "registerEvent(net.md_5.bungee.api.plugin.Listener)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.spigot.event",
+    "c": "EventManager",
+    "l": "registerEvent(Listener)",
+    "u": "registerEvent(org.bukkit.event.Listener)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "c": "BetterBanSystem",
+    "l": "reloadConfig()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "SpigotCommandSender",
+    "l": "removeAttachment(PermissionAttachment)",
+    "u": "removeAttachment(org.bukkit.permissions.PermissionAttachment)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "BanHandler",
+    "l": "removeBan(String)",
+    "u": "removeBan(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "BanEntry",
+    "l": "removeEntry(IBanEntry)",
+    "u": "removeEntry(me.github.simonplays15.betterbansystem.core.ban.IBanEntry)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "IPBanEntry",
+    "l": "removeEntry(IIPBanEntry)",
+    "u": "removeEntry(me.github.simonplays15.betterbansystem.core.ban.IIPBanEntry)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "c": "MuteEntry",
+    "l": "removeEntry(IMuteEntry)",
+    "u": "removeEntry(me.github.simonplays15.betterbansystem.core.mute.IMuteEntry)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "WarnEntry",
+    "l": "removeEntry(IWarnEntry)",
+    "u": "removeEntry(me.github.simonplays15.betterbansystem.core.warn.IWarnEntry)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "IPBanEntry",
+    "l": "removeFromJson(String)",
+    "u": "removeFromJson(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "BanEntry",
+    "l": "removeFromJson(UUID)",
+    "u": "removeFromJson(java.util.UUID)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "c": "MuteEntry",
+    "l": "removeFromJson(UUID)",
+    "u": "removeFromJson(java.util.UUID)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "WarnEntry",
+    "l": "removeFromJson(UUID)",
+    "u": "removeFromJson(java.util.UUID)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "BungeeCordCommandSender",
+    "l": "removeGroups(String...)",
+    "u": "removeGroups(java.lang.String...)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "BanHandler",
+    "l": "removeIpBan(String)",
+    "u": "removeIpBan(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "c": "MuteHandler",
+    "l": "removeMute(String)",
+    "u": "removeMute(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "IWarnEntry",
+    "l": "removeWarn(int)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "WarnEntry",
+    "l": "removeWarn(int)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "WarnHandler",
+    "l": "removeWarn(String, int)",
+    "u": "removeWarn(java.lang.String,int)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "ResourceFile",
+    "l": "ResourceFile(File)",
+    "u": "%3Cinit%3E(java.io.File)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database",
+    "c": "IDatabase",
+    "l": "rollbackTransaction()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mongodb",
+    "c": "MongoDBDatabase",
+    "l": "rollbackTransaction()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mysql",
+    "c": "MySQLDatabase",
+    "l": "rollbackTransaction()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.sqlite",
+    "c": "SQLiteDatabase",
+    "l": "rollbackTransaction()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "c": "LookUpCommand",
+    "l": "runCommand(BaseCommandSender, String[])",
+    "u": "runCommand(me.github.simonplays15.betterbansystem.core.player.BaseCommandSender,java.lang.String[])"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command",
+    "c": "BaseCommand",
+    "l": "runCommand(BaseCommandSender, String[])",
+    "u": "runCommand(me.github.simonplays15.betterbansystem.core.player.BaseCommandSender,java.lang.String[])"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "c": "UnbanCommand",
+    "l": "runCommand(BaseCommandSender, String[])",
+    "u": "runCommand(me.github.simonplays15.betterbansystem.core.player.BaseCommandSender,java.lang.String[])"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "c": "UnbanIpCommand",
+    "l": "runCommand(BaseCommandSender, String[])",
+    "u": "runCommand(me.github.simonplays15.betterbansystem.core.player.BaseCommandSender,java.lang.String[])"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "c": "BanCommand",
+    "l": "runCommand(BaseCommandSender, String[])",
+    "u": "runCommand(me.github.simonplays15.betterbansystem.core.player.BaseCommandSender,java.lang.String[])"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "c": "BanListCommand",
+    "l": "runCommand(BaseCommandSender, String[])",
+    "u": "runCommand(me.github.simonplays15.betterbansystem.core.player.BaseCommandSender,java.lang.String[])"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "c": "DelWarnCommand",
+    "l": "runCommand(BaseCommandSender, String[])",
+    "u": "runCommand(me.github.simonplays15.betterbansystem.core.player.BaseCommandSender,java.lang.String[])"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "c": "IpBanCommand",
+    "l": "runCommand(BaseCommandSender, String[])",
+    "u": "runCommand(me.github.simonplays15.betterbansystem.core.player.BaseCommandSender,java.lang.String[])"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "c": "KickCommand",
+    "l": "runCommand(BaseCommandSender, String[])",
+    "u": "runCommand(me.github.simonplays15.betterbansystem.core.player.BaseCommandSender,java.lang.String[])"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "c": "MuteCommand",
+    "l": "runCommand(BaseCommandSender, String[])",
+    "u": "runCommand(me.github.simonplays15.betterbansystem.core.player.BaseCommandSender,java.lang.String[])"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "c": "TimeBanCommand",
+    "l": "runCommand(BaseCommandSender, String[])",
+    "u": "runCommand(me.github.simonplays15.betterbansystem.core.player.BaseCommandSender,java.lang.String[])"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "c": "UnmuteCommand",
+    "l": "runCommand(BaseCommandSender, String[])",
+    "u": "runCommand(me.github.simonplays15.betterbansystem.core.player.BaseCommandSender,java.lang.String[])"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "c": "WarnCommand",
+    "l": "runCommand(BaseCommandSender, String[])",
+    "u": "runCommand(me.github.simonplays15.betterbansystem.core.player.BaseCommandSender,java.lang.String[])"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.runtimeservice",
+    "c": "RuntimeService",
+    "l": "RuntimeService()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "BaseConfig",
+    "l": "save(File)",
+    "u": "save(java.io.File)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "c": "BetterBanSystem",
+    "l": "saveConfig()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "c": "ResourceFile",
+    "l": "saveResource(String, boolean)",
+    "u": "saveResource(java.lang.String,boolean)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "BanEntry",
+    "l": "saveToJson(IBanEntry)",
+    "u": "saveToJson(me.github.simonplays15.betterbansystem.core.ban.IBanEntry)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "IPBanEntry",
+    "l": "saveToJson(IIPBanEntry)",
+    "u": "saveToJson(me.github.simonplays15.betterbansystem.core.ban.IIPBanEntry)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "c": "MuteEntry",
+    "l": "saveToJson(IMuteEntry)",
+    "u": "saveToJson(me.github.simonplays15.betterbansystem.core.mute.IMuteEntry)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "WarnEntry",
+    "l": "saveToJson(IWarnEntry)",
+    "u": "saveToJson(me.github.simonplays15.betterbansystem.core.warn.IWarnEntry)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database",
+    "c": "IDatabase",
+    "l": "select(String, String)",
+    "u": "select(java.lang.String,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mongodb",
+    "c": "CachedMongoDBDatabase",
+    "l": "select(String, String)",
+    "u": "select(java.lang.String,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mongodb",
+    "c": "MongoDBDatabase",
+    "l": "select(String, String)",
+    "u": "select(java.lang.String,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mysql",
+    "c": "CachedMySQLDatabase",
+    "l": "select(String, String)",
+    "u": "select(java.lang.String,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mysql",
+    "c": "MySQLDatabase",
+    "l": "select(String, String)",
+    "u": "select(java.lang.String,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.sqlite",
+    "c": "CachedSQLiteDatabase",
+    "l": "select(String, String)",
+    "u": "select(java.lang.String,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.sqlite",
+    "c": "SQLiteDatabase",
+    "l": "select(String, String)",
+    "u": "select(java.lang.String,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database",
+    "c": "IDatabase",
+    "l": "selectAll(String)",
+    "u": "selectAll(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mongodb",
+    "c": "CachedMongoDBDatabase",
+    "l": "selectAll(String)",
+    "u": "selectAll(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mongodb",
+    "c": "MongoDBDatabase",
+    "l": "selectAll(String)",
+    "u": "selectAll(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mysql",
+    "c": "CachedMySQLDatabase",
+    "l": "selectAll(String)",
+    "u": "selectAll(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mysql",
+    "c": "MySQLDatabase",
+    "l": "selectAll(String)",
+    "u": "selectAll(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.sqlite",
+    "c": "CachedSQLiteDatabase",
+    "l": "selectAll(String)",
+    "u": "selectAll(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.sqlite",
+    "c": "SQLiteDatabase",
+    "l": "selectAll(String)",
+    "u": "selectAll(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.chat",
+    "c": "HoverMessageUtil",
+    "l": "sendHoverableMessage(Object, BaseComponent[])",
+    "u": "sendHoverableMessage(java.lang.Object,net.md_5.bungee.api.chat.BaseComponent[])"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.chat",
+    "c": "HoverMessageUtil",
+    "l": "sendHoverableMessage(Object, String, String)",
+    "u": "sendHoverableMessage(java.lang.Object,java.lang.String,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.chat",
+    "c": "HoverMessageUtil",
+    "l": "sendHoverableMessage(Object, TextComponent)",
+    "u": "sendHoverableMessage(java.lang.Object,net.md_5.bungee.api.chat.TextComponent)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.chat",
+    "c": "HoverMessageUtil",
+    "l": "sendHoverableMessage(Object, TextComponent...)",
+    "u": "sendHoverableMessage(java.lang.Object,net.md_5.bungee.api.chat.TextComponent...)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "BungeeCordCommandSender",
+    "l": "sendMessage(BaseComponent)",
+    "u": "sendMessage(net.md_5.bungee.api.chat.BaseComponent)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "BungeeCordCommandSender",
+    "l": "sendMessage(BaseComponent...)",
+    "u": "sendMessage(net.md_5.bungee.api.chat.BaseComponent...)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "c": "BetterBanSystem",
+    "l": "sendMessage(Object, String)",
+    "u": "sendMessage(java.lang.Object,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "c": "BetterBanSystem",
+    "l": "sendMessage(Object, String...)",
+    "u": "sendMessage(java.lang.Object,java.lang.String...)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "c": "BetterBanSystem",
+    "l": "sendMessage(Object, TextComponent)",
+    "u": "sendMessage(java.lang.Object,net.md_5.bungee.api.chat.TextComponent)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "c": "BetterBanSystem",
+    "l": "sendMessage(Object, TextComponent...)",
+    "u": "sendMessage(java.lang.Object,net.md_5.bungee.api.chat.TextComponent...)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "SpigotCommandSender",
+    "l": "sendMessage(String)",
+    "u": "sendMessage(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "BaseCommandSender",
+    "l": "sendMessage(String)",
+    "u": "sendMessage(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "BungeeCordCommandSender",
+    "l": "sendMessage(String)",
+    "u": "sendMessage(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "SpigotCommandSender",
+    "l": "sendMessage(String...)",
+    "u": "sendMessage(java.lang.String...)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "BaseCommandSender",
+    "l": "sendMessage(String...)",
+    "u": "sendMessage(java.lang.String...)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "BungeeCordCommandSender",
+    "l": "sendMessage(String...)",
+    "u": "sendMessage(java.lang.String...)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "SpigotCommandSender",
+    "l": "sendMessage(UUID, String)",
+    "u": "sendMessage(java.util.UUID,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "BaseCommandSender",
+    "l": "sendMessage(UUID, String)",
+    "u": "sendMessage(java.util.UUID,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "BungeeCordCommandSender",
+    "l": "sendMessage(UUID, String)",
+    "u": "sendMessage(java.util.UUID,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "SpigotCommandSender",
+    "l": "sendMessage(UUID, String...)",
+    "u": "sendMessage(java.util.UUID,java.lang.String...)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "BaseCommandSender",
+    "l": "sendMessage(UUID, String...)",
+    "u": "sendMessage(java.util.UUID,java.lang.String...)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "BungeeCordCommandSender",
+    "l": "sendMessage(UUID, String...)",
+    "u": "sendMessage(java.util.UUID,java.lang.String...)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "BungeeCordCommandSender",
+    "l": "sendMessages(String...)",
+    "u": "sendMessages(java.lang.String...)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command",
+    "c": "BaseCommand",
+    "l": "sendUsage(BaseCommandSender)",
+    "u": "sendUsage(me.github.simonplays15.betterbansystem.core.player.BaseCommandSender)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.logging",
+    "c": "GlobalLogger",
+    "l": "setDebug(boolean)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command",
+    "c": "BaseCommand",
+    "l": "setDescription(String)",
+    "u": "setDescription(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command",
+    "c": "BaseCommand",
+    "l": "setLabel(String)",
+    "u": "setLabel(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "SpigotCommandSender",
+    "l": "setOp(boolean)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command",
+    "c": "BaseCommand",
+    "l": "setPermission(String)",
+    "u": "setPermission(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "BungeeCordCommandSender",
+    "l": "setPermission(String, boolean)",
+    "u": "setPermission(java.lang.String,boolean)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command",
+    "c": "BaseCommand",
+    "l": "setUsage(String)",
+    "u": "setUsage(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.logging",
+    "c": "GlobalLogger",
+    "l": "setWriteLogsToFile(boolean)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "BanEntry",
+    "l": "source()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "IBanEntry",
+    "l": "source()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "IIPBanEntry",
+    "l": "source()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "IPBanEntry",
+    "l": "source()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "c": "IMuteEntry",
+    "l": "source()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "c": "MuteEntry",
+    "l": "source()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "Warn",
+    "l": "source()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "c": "PermissionsHandlerType",
+    "l": "SPIGOT"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "SpigotCommandSender",
+    "l": "spigot()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "SpigotCommandSender",
+    "l": "SpigotCommandSender(CommandSender)",
+    "u": "%3Cinit%3E(org.bukkit.command.CommandSender)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "c": "SpigotCommandSender",
+    "l": "SpigotCommandSender(Object)",
+    "u": "%3Cinit%3E(java.lang.Object)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.spigot",
+    "c": "SpigotCore",
+    "l": "SpigotCore()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "c": "SpigotPermissionsHandler",
+    "l": "SpigotPermissionsHandler()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database",
+    "c": "DriverType",
+    "l": "SQLITE"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.sqlite",
+    "c": "SQLiteDatabase",
+    "l": "SQLiteDatabase()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "BanManager",
+    "l": "start()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "c": "MuteManager",
+    "l": "start()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "WarnManager",
+    "l": "start()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database",
+    "c": "IDatabase",
+    "l": "startTransaction()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mongodb",
+    "c": "MongoDBDatabase",
+    "l": "startTransaction()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mysql",
+    "c": "MySQLDatabase",
+    "l": "startTransaction()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.sqlite",
+    "c": "SQLiteDatabase",
+    "l": "startTransaction()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "BanManager",
+    "l": "stop()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "c": "MuteManager",
+    "l": "stop()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "WarnManager",
+    "l": "stop()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.chat",
+    "c": "StringFormatter",
+    "l": "StringFormatter()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.chat",
+    "c": "ChatColor",
+    "l": "STRIP_COLOR_PATTERN"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.chat",
+    "c": "ChatColor",
+    "l": "stripColor(String)",
+    "u": "stripColor(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command",
+    "c": "BaseCommand",
+    "l": "testPermission(BaseCommandSender)",
+    "u": "testPermission(me.github.simonplays15.betterbansystem.core.player.BaseCommandSender)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command",
+    "c": "BaseCommand",
+    "l": "testPermission(BaseCommandSender, String)",
+    "u": "testPermission(me.github.simonplays15.betterbansystem.core.player.BaseCommandSender,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.automod",
+    "c": "AutoModActionType",
+    "l": "TIMEBAN"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "c": "TimeBanCommand",
+    "l": "TimeBanCommand()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.automod",
+    "c": "AutoModAction",
+    "l": "toString()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "BanEntry",
+    "l": "toString()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "IPBanEntry",
+    "l": "toString()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command",
+    "c": "BaseCommand",
+    "l": "toString()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "c": "MuteEntry",
+    "l": "toString()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "c": "PermissionsManager",
+    "l": "toString()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "Warn",
+    "l": "toString()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "WarnEntry",
+    "l": "toString()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.logging",
+    "c": "LogLevel",
+    "l": "TRACE"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.logging",
+    "c": "GlobalLogger",
+    "l": "trace(Object...)",
+    "u": "trace(java.lang.Object...)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.chat",
+    "c": "ChatColor",
+    "l": "translateAlternateColorCodes(char, String)",
+    "u": "translateAlternateColorCodes(char,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "c": "UnbanCommand",
+    "l": "UnbanCommand()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "c": "UnbanIpCommand",
+    "l": "UnbanIpCommand()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.automod",
+    "c": "AutoModActionParameters",
+    "l": "UNKNOWN"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.automod",
+    "c": "AutoModActionType",
+    "l": "UNKNOWN"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "c": "UnmuteCommand",
+    "l": "UnmuteCommand()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.exceptions",
+    "c": "UnsupportedMinecraftServerTypeException",
+    "l": "UnsupportedMinecraftServerTypeException()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.exceptions",
+    "c": "UnsupportedMinecraftServerTypeException",
+    "l": "UnsupportedMinecraftServerTypeException(String)",
+    "u": "%3Cinit%3E(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.exceptions",
+    "c": "UnsupportedMinecraftServerTypeException",
+    "l": "UnsupportedMinecraftServerTypeException(String, Throwable)",
+    "u": "%3Cinit%3E(java.lang.String,java.lang.Throwable)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mongodb",
+    "c": "CachedMongoDBDatabase",
+    "l": "update(String, String, Object, Map<String, Object>)",
+    "u": "update(java.lang.String,java.lang.String,java.lang.Object,java.util.Map)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mysql",
+    "c": "CachedMySQLDatabase",
+    "l": "update(String, String, Object, Map<String, Object>)",
+    "u": "update(java.lang.String,java.lang.String,java.lang.Object,java.util.Map)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mysql",
+    "c": "MySQLDatabase",
+    "l": "update(String, String, Object, Map<String, Object>)",
+    "u": "update(java.lang.String,java.lang.String,java.lang.Object,java.util.Map)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.sqlite",
+    "c": "CachedSQLiteDatabase",
+    "l": "update(String, String, Object, Map<String, Object>)",
+    "u": "update(java.lang.String,java.lang.String,java.lang.Object,java.util.Map)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.sqlite",
+    "c": "SQLiteDatabase",
+    "l": "update(String, String, Object, Map<String, Object>)",
+    "u": "update(java.lang.String,java.lang.String,java.lang.Object,java.util.Map)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database",
+    "c": "IDatabase",
+    "l": "update(String, String, Object, Map<String, Object>)",
+    "u": "update(java.lang.String,java.lang.String,java.lang.Object,java.util.Map)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mongodb",
+    "c": "MongoDBDatabase",
+    "l": "update(String, String, Object, Map<String, Object>)",
+    "u": "update(java.lang.String,java.lang.String,java.lang.Object,java.util.Map)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "c": "Updater",
+    "l": "Updater()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "BanEntry",
+    "l": "uuid()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "IBanEntry",
+    "l": "uuid()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "c": "IMuteEntry",
+    "l": "uuid()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "c": "MuteEntry",
+    "l": "uuid()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "IWarnEntry",
+    "l": "uuid()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "WarnEntry",
+    "l": "uuid()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.uuid",
+    "c": "UUIDFetcher",
+    "l": "UUIDFetcher()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.automod",
+    "c": "AutoModActionParameters",
+    "l": "valueOf(String)",
+    "u": "valueOf(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.automod",
+    "c": "AutoModActionType",
+    "l": "valueOf(String)",
+    "u": "valueOf(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command",
+    "c": "CommandSenderType",
+    "l": "valueOf(String)",
+    "u": "valueOf(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database",
+    "c": "DriverType",
+    "l": "valueOf(String)",
+    "u": "valueOf(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.logging",
+    "c": "LogLevel",
+    "l": "valueOf(String)",
+    "u": "valueOf(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "c": "PermissionsHandlerType",
+    "l": "valueOf(String)",
+    "u": "valueOf(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.automod",
+    "c": "AutoModActionParameters",
+    "l": "values()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.automod",
+    "c": "AutoModActionType",
+    "l": "values()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command",
+    "c": "CommandSenderType",
+    "l": "values()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database",
+    "c": "DriverType",
+    "l": "values()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.logging",
+    "c": "LogLevel",
+    "l": "values()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "c": "PermissionsHandlerType",
+    "l": "values()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "c": "PermissionsHandlerType",
+    "l": "VAULT"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "c": "VaultPermissionsSystem",
+    "l": "VaultPermissionsSystem()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.automod",
+    "c": "AutoModActionType",
+    "l": "WARN"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "Warn",
+    "l": "Warn(int, String, Date, String)",
+    "u": "%3Cinit%3E(int,java.lang.String,java.util.Date,java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.logging",
+    "c": "GlobalLogger",
+    "l": "warn(Object...)",
+    "u": "warn(java.lang.Object...)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "c": "WarnCommand",
+    "l": "WarnCommand()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "WarnEntry",
+    "l": "WarnEntry(UUID, String, List<Warn>)",
+    "u": "%3Cinit%3E(java.util.UUID,java.lang.String,java.util.List)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "WarnHandler",
+    "l": "WarnHandler()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.logging",
+    "c": "LogLevel",
+    "l": "WARNING"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.logging",
+    "c": "GlobalLogger",
+    "l": "warning(String)",
+    "u": "warning(java.lang.String)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "WarnManager",
+    "l": "WarnManager()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "IWarnEntry",
+    "l": "warns()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "WarnEntry",
+    "l": "warns()"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "BanEntry.IBanEntryAdapter",
+    "l": "write(JsonWriter, IBanEntry)",
+    "u": "write(com.google.gson.stream.JsonWriter,me.github.simonplays15.betterbansystem.core.ban.IBanEntry)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "c": "IPBanEntry.IIPBanEntryAdapter",
+    "l": "write(JsonWriter, IIPBanEntry)",
+    "u": "write(com.google.gson.stream.JsonWriter,me.github.simonplays15.betterbansystem.core.ban.IIPBanEntry)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "c": "MuteEntry.IMuteEntryAdapter",
+    "l": "write(JsonWriter, IMuteEntry)",
+    "u": "write(com.google.gson.stream.JsonWriter,me.github.simonplays15.betterbansystem.core.mute.IMuteEntry)"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "c": "WarnEntry.IWarnEntryAdapter",
+    "l": "write(JsonWriter, IWarnEntry)",
+    "u": "write(com.google.gson.stream.JsonWriter,me.github.simonplays15.betterbansystem.core.warn.IWarnEntry)"
+}, {"p": "me.github.simonplays15.betterbansystem.core.logging", "c": "GlobalLogger", "l": "writeLogFiles()"}];
+updateSearchResults();

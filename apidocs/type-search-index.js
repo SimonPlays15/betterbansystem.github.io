@@ -1,0 +1,257 @@
+typeSearchIndex = [{
+    "l": "All Classes and Interfaces",
+    "u": "allclasses-index.html"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.automod",
+    "l": "AutoModAction"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.automod",
+    "l": "AutoModActionParameters"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.automod",
+    "l": "AutoModActionType"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "l": "BanCommand"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "l": "BanEntry"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "l": "BanHandler"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "l": "BanListCommand"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "l": "BanManager"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command",
+    "l": "BaseCommand"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command",
+    "l": "BaseCommandHandler"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "l": "BaseCommandSender"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "l": "BaseConfig"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "l": "BasePluginDescription"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "l": "BetterBanSystem"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "l": "BungeeCordCommandSender"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "l": "BungeeCordDefaultHandler"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.bungeecord",
+    "l": "BungeeCore"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mongodb",
+    "l": "CachedMongoDBDatabase"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mysql",
+    "l": "CachedMySQLDatabase"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.sqlite",
+    "l": "CachedSQLiteDatabase"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.chat",
+    "l": "ChatColor"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.bungeecord.event.events",
+    "l": "ChatEvents"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "l": "CloudNetPermissionsHandler"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.exceptions",
+    "l": "CommandException"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.bungeecord",
+    "l": "CommandHandler"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.spigot",
+    "l": "CommandHandler"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.exceptions",
+    "l": "CommandRegisterException"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command",
+    "l": "CommandSenderType"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database",
+    "l": "Database"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "l": "DelWarnCommand"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database",
+    "l": "DriverType"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.bungeecord.event",
+    "l": "EventManager"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.spigot.event",
+    "l": "EventManager"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.logging",
+    "l": "GlobalLogger"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.chat",
+    "l": "HoverMessageUtil"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "l": "IBanEntry"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "l": "BanEntry.IBanEntryAdapter"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database",
+    "l": "IDatabase"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "l": "IIPBanEntry"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "l": "IPBanEntry.IIPBanEntryAdapter"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "l": "IMuteEntry"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "l": "MuteEntry.IMuteEntryAdapter"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.exceptions",
+    "l": "InvalidDescriptionException"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "l": "IpBanCommand"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.ban",
+    "l": "IPBanEntry"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "l": "IWarnEntry"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "l": "WarnEntry.IWarnEntryAdapter"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "l": "KickCommand"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "l": "LanguageFile"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.bungeecord.event.events",
+    "l": "LoginEvents"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.logging",
+    "l": "LogLevel"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "l": "LookUpCommand"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "l": "LuckPermsManager"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mongodb",
+    "l": "MongoDBDatabase"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "l": "MuteCommand"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "l": "MuteEntry"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "l": "MuteHandler"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.mute",
+    "l": "MuteManager"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.mysql",
+    "l": "MySQLDatabase"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.exceptions",
+    "l": "NotImplementedException"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.exceptions",
+    "l": "PermissionManagerLoadException"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "l": "PermissionsHandlerType"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "l": "PermissionsManager"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.spigot.event.events",
+    "l": "PlayerChatEvents"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.spigot.event.events",
+    "l": "PlayerLoginEvents"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.files",
+    "l": "ResourceFile"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.runtimeservice",
+    "l": "RuntimeService"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.player",
+    "l": "SpigotCommandSender"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.spigot",
+    "l": "SpigotCore"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "l": "SpigotPermissionsHandler"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.database.sqlite",
+    "l": "SQLiteDatabase"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.chat",
+    "l": "StringFormatter"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "l": "TimeBanCommand"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "l": "UnbanCommand"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "l": "UnbanIpCommand"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "l": "UnmuteCommand"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.exceptions",
+    "l": "UnsupportedMinecraftServerTypeException"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core",
+    "l": "Updater"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.api.uuid",
+    "l": "UUIDFetcher"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.permissions",
+    "l": "VaultPermissionsSystem"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "l": "Warn"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.command.commands",
+    "l": "WarnCommand"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "l": "WarnEntry"
+}, {
+    "p": "me.github.simonplays15.betterbansystem.core.warn",
+    "l": "WarnHandler"
+}, {"p": "me.github.simonplays15.betterbansystem.core.warn", "l": "WarnManager"}];
+updateSearchResults();
