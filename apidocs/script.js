@@ -28,10 +28,9 @@ var packageSearchIndex;
 var typeSearchIndex;
 var memberSearchIndex;
 var tagSearchIndex;
-
 function loadScripts(doc, tag) {
     createElem(doc, tag, 'search.js');
-    
+
     createElem(doc, tag, 'module-search-index.js');
     createElem(doc, tag, 'package-search-index.js');
     createElem(doc, tag, 'type-search-index.js');
