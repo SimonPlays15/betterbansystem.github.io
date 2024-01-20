@@ -2029,6 +2029,11 @@ memberSearchIndex = [{
     "l": "sendUsage(BaseCommandSender)",
     "u": "sendUsage(me.github.simonplays15.betterbansystem.core.player.BaseCommandSender)"
 }, {
+    "p": "me.github.simonplays15.betterbansystem.core.command",
+    "c": "BaseCommand",
+    "l": "setCommandName(String)",
+    "u": "setCommandName(java.lang.String)"
+}, {
     "p": "me.github.simonplays15.betterbansystem.core.logging",
     "c": "GlobalLogger",
     "l": "setDebug(boolean)"
